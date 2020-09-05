@@ -1,1 +1,1 @@
-https://SNAKE0904.github.io/rsschool-cv/index
+https://SNAKE0904.github.io/
