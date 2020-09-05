@@ -1,1 +1,1 @@
-https://SNAKE0904.github.io/
+https://snake0904.github.io/rsschool-cv/
