@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SNAKE0904.github.io/rsschool-cv/cv
