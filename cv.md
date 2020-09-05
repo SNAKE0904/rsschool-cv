@@ -38,3 +38,8 @@ let world = Found(str, '&', 'World');
 alert(hello + ' and ' + world);
 ```
 
+## Education
+
+KNTU: http://kntu.net.ua/
+Vezom Academy: https://wezom.com.ua/kursy_html5_css3_js
+
