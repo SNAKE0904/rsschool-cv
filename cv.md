@@ -12,3 +12,10 @@ I received basic knowledge of html and css at the courses of the Vezom Academy: 
 
 I am a curious and meticulous person who will not rest until I am sure that I have mastered the material.
 
+## Skills
+* **Programming Languages** | HTML/CSS | SCSS | JavaScript |
+* **Methodologies** | BEM | Object-Oriented Programming |
+* **Automation Software** |Gulp |
+* **VCS** | Git |
+* **Development Environment** | Sublime Text 3 | WebStorm |
+
