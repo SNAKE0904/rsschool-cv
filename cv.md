@@ -19,3 +19,22 @@ I am a curious and meticulous person who will not rest until I am sure that I ha
 * **VCS** | Git |
 * **Development Environment** | Sublime Text 3 | WebStorm |
 
+## Code examples
+
+```javascript
+function Found(str, separator, wordToFind){
+  let extracted = str.split(separator).find(function(v){ 
+  return v.indexOf(wordToFind);
+  })
+  return extracted;
+}
+
+let str = 'Hello&World';
+
+let hello = Found(str, '&', 'Hello');
+
+let world = Found(str, '&', 'World');
+
+alert(hello + ' and ' + world);
+```
+
