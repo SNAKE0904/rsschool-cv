@@ -43,3 +43,12 @@ alert(hello + ' and ' + world);
 KNTU: http://kntu.net.ua/
 Vezom Academy: https://wezom.com.ua/kursy_html5_css3_js
 
+## English level
+
+Basic or pre-intermediate.
+
+## Contact me
+
+GitHub: [github.com/SNAKE0904](https://github.com/SNAKE0904)
+
+Telegram : [t.me/vanya_kirdun](https://t.me/vanya_kirdun)
